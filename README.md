@@ -7,7 +7,6 @@ Ubuntu or Debian
 
 ## Role Variables
 * `apt_cacher_ng_port: 3142`
-* `apt_cacher_ng_cache_dir: /var/cache/apt-cacher-ng`
 * `apt_cacher_ng_setup_ufw: True` Add a ufw rule to allow apt-cacher-ng
 
 ## Dependencies
